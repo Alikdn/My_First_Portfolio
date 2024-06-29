@@ -38,7 +38,7 @@ To view the website, open the index.html file in your web browser.
 - *Technologies Used*: HTML, CSS, JavaScript, React, Node.js, MongoDB
 - *Features*: Product catalog, shopping cart and checkout system, secure payment processing with Stripe.
 - *Outcome*: Gained experience in building full-stack applications and integrating third-party payment systems.
-- *Link*: [View Project](https://example.com/e-commerce-store)
+- *Link*: [View Project](https://example.com/e-commerce-store) xd
 
 ## Contact
 
